@@ -1,0 +1,36 @@
+Package: julia-snail
+Fetcher: github
+Source:  https://github.com/gcv/julia-snail.git
+
+Updating /mnt/store/melpa/working/julia-snail/
+Checking out 3c4d13d320c589d54011fdfb95be0c72be786aff
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/julia-snail/
+  to /tmp/julia-snailLJV96p/julia-snail-20240515.557
+    julia-snail.el -> julia-snail.el
+    JuliaSnail.jl -> JuliaSnail.jl
+    Project.toml -> Project.toml
+    extensions => extensions
+Created julia-snail-20240515.557.tar containing:
+  julia-snail-20240515.557/
+  julia-snail-20240515.557/JuliaSnail.jl
+  julia-snail-20240515.557/Project.toml
+  julia-snail-20240515.557/extensions/
+  julia-snail-20240515.557/extensions/formatter/
+  julia-snail-20240515.557/extensions/formatter/Formatter.jl
+  julia-snail-20240515.557/extensions/formatter/Project.toml
+  julia-snail-20240515.557/extensions/formatter/formatter.el
+  julia-snail-20240515.557/extensions/ob-julia/
+  julia-snail-20240515.557/extensions/ob-julia/Project.toml
+  julia-snail-20240515.557/extensions/ob-julia/ob-julia.el
+  julia-snail-20240515.557/extensions/ob-julia/src/
+  julia-snail-20240515.557/extensions/ob-julia/src/ObJulia.jl
+  julia-snail-20240515.557/extensions/repl-history/
+  julia-snail-20240515.557/extensions/repl-history/REPLHistory.jl
+  julia-snail-20240515.557/extensions/repl-history/repl-history.el
+  julia-snail-20240515.557/julia-snail-pkg.el
+  julia-snail-20240515.557/julia-snail.el
+ ✓ Success:
+  2024-05-19T23:21:12+0000  julia-snail-20240515.557.entry
+  2024-05-19T23:21:12+0000  julia-snail-20240515.557.tar
+Built julia-snail in 5.319s, finished at 2024-05-19T23:21:14+0000

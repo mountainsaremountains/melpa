@@ -1,0 +1,10 @@
+Package: yatex
+Fetcher: hg
+Source:  https://www.yatex.org/hgrepos/yatex
+
+Updating /mnt/store/melpa/working/yatex/
+Command `hg pull' exited with non-zero exit-code: 255
+pulling from https://www.yatex.org/hgrepos/yatex
+abort: HTTP Error 500: Internal Server Error
+
+Command `hg pull' exited with non-zero exit-code: 255

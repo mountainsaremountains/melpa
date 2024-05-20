@@ -1,0 +1,18 @@
+Package: lit-mode
+Fetcher: github
+Source:  https://github.com/HectorAE/lit-mode.git
+
+Updating /mnt/store/melpa/working/lit-mode/
+Checking out c61c403afc8333a5649c5421ab1a6341dc1c7d92
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lit-mode/
+  to /tmp/lit-modep6K7ng/lit-mode-20141205.441
+    lit-mode.el -> lit-mode.el
+Created lit-mode-20141205.441.tar containing:
+  lit-mode-20141205.441/
+  lit-mode-20141205.441/lit-mode-pkg.el
+  lit-mode-20141205.441/lit-mode.el
+ ✓ Success:
+  2024-05-19T23:24:28+0000  lit-mode-20141205.441.entry
+  2024-05-19T23:24:28+0000  lit-mode-20141205.441.tar
+Built lit-mode in 4.383s, finished at 2024-05-19T23:24:29+0000

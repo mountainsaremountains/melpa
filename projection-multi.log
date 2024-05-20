@@ -1,0 +1,44 @@
+Package: projection-multi
+Fetcher: github
+Source:  https://github.com/mohkale/projection.git
+
+Updating /mnt/store/melpa/working/projection-multi/
+Checking out 68f2387219f2627506f5e345e9be04bd11aa0e65
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/projection-multi/
+  to /tmp/projection-multiLfQavS/projection-multi-20240517.2021
+  ! src/projection-multi/projection-multi-cmake.el -> projection-multi-cmake.el
+  ! src/projection-multi/projection-multi-ctest.el -> projection-multi-ctest.el
+  ! src/projection-multi/projection-multi-gradle.el -> projection-multi-gradle.el
+  ! src/projection-multi/projection-multi-make.el -> projection-multi-make.el
+  ! src/projection-multi/projection-multi-meson.el -> projection-multi-meson.el
+  ! src/projection-multi/projection-multi-npm-scripts.el -> projection-multi-npm-scripts.el
+  ! src/projection-multi/projection-multi-poetry-poe.el -> projection-multi-poetry-poe.el
+  ! src/projection-multi/projection-multi-pytest.el -> projection-multi-pytest.el
+  ! src/projection-multi/projection-multi-rustic.el -> projection-multi-rustic.el
+  ! src/projection-multi/projection-multi-tox.el -> projection-multi-tox.el
+  ! src/projection-multi/projection-multi-vscode-tasks.el -> projection-multi-vscode-tasks.el
+  ! src/projection-multi/projection-multi-yarn-scripts.el -> projection-multi-yarn-scripts.el
+  ! src/projection-multi/projection-multi.el -> projection-multi.el
+Created projection-multi-20240517.2021.tar containing:
+  projection-multi-20240517.2021/
+  projection-multi-20240517.2021/projection-multi-cmake.el
+  projection-multi-20240517.2021/projection-multi-ctest.el
+  projection-multi-20240517.2021/projection-multi-gradle.el
+  projection-multi-20240517.2021/projection-multi-make.el
+  projection-multi-20240517.2021/projection-multi-meson.el
+  projection-multi-20240517.2021/projection-multi-npm-scripts.el
+  projection-multi-20240517.2021/projection-multi-pkg.el
+  projection-multi-20240517.2021/projection-multi-poetry-poe.el
+  projection-multi-20240517.2021/projection-multi-pytest.el
+  projection-multi-20240517.2021/projection-multi-rustic.el
+  projection-multi-20240517.2021/projection-multi-tox.el
+  projection-multi-20240517.2021/projection-multi-vscode-tasks.el
+  projection-multi-20240517.2021/projection-multi-yarn-scripts.el
+  projection-multi-20240517.2021/projection-multi.el
+ ✓ Success:
+  2024-05-15T21:57:04+0000  projection-multi-20240508.1958.entry
+  2024-05-15T21:57:04+0000  projection-multi-20240508.1958.tar
+  2024-05-19T23:46:18+0000  projection-multi-20240517.2021.entry
+  2024-05-19T23:46:18+0000  projection-multi-20240517.2021.tar
+Built projection-multi in 5.364s, finished at 2024-05-19T23:46:20+0000

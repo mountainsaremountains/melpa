@@ -1,0 +1,12 @@
+Package: yasnippet-snippets
+Fetcher: github
+Source:  https://github.com/AndreaCrotti/yasnippet-snippets.git
+
+Updating /mnt/store/melpa/working/yasnippet-snippets/
+Checking out 6fafad13bb4689600285d9e38c61958dd63c356d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/yasnippet-snippets/
+  to /tmp/yasnippet-snippetsCox6BY/yasnippet-snippets-20240507.943
+    yasnippet-snippets.el -> yasnippet-snippets.el
+    snippets => snippets
+Write error: No space left on device, /tmp/yasnippet-snippetsCox6BY/yasnippet-snippets-20240507.943/snippets/python-mode/__cmp__

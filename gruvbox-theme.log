@@ -1,0 +1,32 @@
+Package: gruvbox-theme
+Fetcher: github
+Source:  https://github.com/greduan/emacs-theme-gruvbox.git
+
+Updating /mnt/store/melpa/working/gruvbox-theme/
+Checking out 3388a96d8e59c120bc243c1f90c614237f6ac3b5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gruvbox-theme/
+  to /tmp/gruvbox-themedGyH5g/gruvbox-theme-20240515.553
+    gruvbox-dark-hard-theme.el -> gruvbox-dark-hard-theme.el
+    gruvbox-dark-medium-theme.el -> gruvbox-dark-medium-theme.el
+    gruvbox-dark-soft-theme.el -> gruvbox-dark-soft-theme.el
+    gruvbox-light-hard-theme.el -> gruvbox-light-hard-theme.el
+    gruvbox-light-medium-theme.el -> gruvbox-light-medium-theme.el
+    gruvbox-light-soft-theme.el -> gruvbox-light-soft-theme.el
+    gruvbox-theme.el -> gruvbox-theme.el
+    gruvbox.el -> gruvbox.el
+Created gruvbox-theme-20240515.553.tar containing:
+  gruvbox-theme-20240515.553/
+  gruvbox-theme-20240515.553/gruvbox-dark-hard-theme.el
+  gruvbox-theme-20240515.553/gruvbox-dark-medium-theme.el
+  gruvbox-theme-20240515.553/gruvbox-dark-soft-theme.el
+  gruvbox-theme-20240515.553/gruvbox-light-hard-theme.el
+  gruvbox-theme-20240515.553/gruvbox-light-medium-theme.el
+  gruvbox-theme-20240515.553/gruvbox-light-soft-theme.el
+  gruvbox-theme-20240515.553/gruvbox-theme-pkg.el
+  gruvbox-theme-20240515.553/gruvbox-theme.el
+  gruvbox-theme-20240515.553/gruvbox.el
+ ✓ Success:
+  2024-05-19T23:10:37+0000  gruvbox-theme-20240515.553.entry
+  2024-05-19T23:10:37+0000  gruvbox-theme-20240515.553.tar
+Built gruvbox-theme in 4.570s, finished at 2024-05-19T23:10:39+0000

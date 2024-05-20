@@ -1,0 +1,20 @@
+Package: org-bookmarks
+Fetcher: git
+Source:  https://repo.or.cz/org-bookmarks.git
+
+Updating /mnt/store/melpa/working/org-bookmarks/
+Checking out 700f0f2dc34eb968be47896cb247211100942275
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-bookmarks/
+  to /tmp/org-bookmarksmnJX6m/org-bookmarks-20240519.142
+    org-bookmarks.el -> org-bookmarks.el
+Created org-bookmarks-20240519.142.tar containing:
+  org-bookmarks-20240519.142/
+  org-bookmarks-20240519.142/org-bookmarks-pkg.el
+  org-bookmarks-20240519.142/org-bookmarks.el
+ ✓ Success:
+  2024-05-15T21:46:45+0000  org-bookmarks-20240515.243.entry
+  2024-05-15T21:46:45+0000  org-bookmarks-20240515.243.tar
+  2024-05-19T23:36:29+0000  org-bookmarks-20240519.142.entry
+  2024-05-19T23:36:29+0000  org-bookmarks-20240519.142.tar
+Built org-bookmarks in 5.526s, finished at 2024-05-19T23:36:31+0000

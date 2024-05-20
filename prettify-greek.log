@@ -1,0 +1,18 @@
+Package: prettify-greek
+Fetcher: gitlab
+Source:  https://gitlab.com/fommil/emacs-prettify-greek.git
+
+Updating /mnt/store/melpa/working/prettify-greek/
+Checking out 698d07a6ffe85f6fb53f3bfec4f49380c25cfd90
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/prettify-greek/
+  to /tmp/prettify-greek6LZxUf/prettify-greek-20160603.908
+    prettify-greek.el -> prettify-greek.el
+Created prettify-greek-20160603.908.tar containing:
+  prettify-greek-20160603.908/
+  prettify-greek-20160603.908/prettify-greek-pkg.el
+  prettify-greek-20160603.908/prettify-greek.el
+ ✓ Success:
+  2024-05-19T23:45:28+0000  prettify-greek-20160603.908.entry
+  2024-05-19T23:45:28+0000  prettify-greek-20160603.908.tar
+Built prettify-greek in 8.641s, finished at 2024-05-19T23:45:31+0000

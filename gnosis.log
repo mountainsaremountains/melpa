@@ -1,0 +1,28 @@
+Package: gnosis
+Fetcher: git
+Source:  https://git.thanosapollo.org/gnosis
+
+Updating /mnt/store/melpa/working/gnosis/
+Checking out b9c6c04e33ad2f541ab116dda9e460f21034a8eb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gnosis/
+  to /tmp/gnosisPGRVvQ/gnosis-20240517.334
+    gnosis-algorithm.el -> gnosis-algorithm.el
+    gnosis-string-edit.el -> gnosis-string-edit.el
+    gnosis.el -> gnosis.el
+  ! doc/gnosis.info -> gnosis.info
+  ! doc/gnosis.texi -> gnosis.texi
+Created gnosis-20240517.334.tar containing:
+  gnosis-20240517.334/
+  gnosis-20240517.334/dir
+  gnosis-20240517.334/gnosis-algorithm.el
+  gnosis-20240517.334/gnosis-pkg.el
+  gnosis-20240517.334/gnosis-string-edit.el
+  gnosis-20240517.334/gnosis.el
+  gnosis-20240517.334/gnosis.info
+ ✓ Success:
+  2024-05-15T21:19:05+0000  gnosis-20240510.918.entry
+  2024-05-15T21:19:05+0000  gnosis-20240510.918.tar
+  2024-05-19T23:08:59+0000  gnosis-20240517.334.entry
+  2024-05-19T23:08:59+0000  gnosis-20240517.334.tar
+Built gnosis in 6.644s, finished at 2024-05-19T23:09:01+0000

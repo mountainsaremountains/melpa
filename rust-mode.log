@@ -1,0 +1,34 @@
+Package: rust-mode
+Fetcher: github
+Source:  https://github.com/rust-lang/rust-mode.git
+
+Updating /mnt/store/melpa/working/rust-mode/
+Checking out 5e96cd08a27bb7c9edd0d247cc211be49eeacfdc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rust-mode/
+  to /tmp/rust-mode5XENGc/rust-mode-20240515.245
+    rust-cargo.el -> rust-cargo.el
+    rust-common.el -> rust-common.el
+    rust-compile.el -> rust-compile.el
+    rust-mode-treesitter.el -> rust-mode-treesitter.el
+    rust-mode.el -> rust-mode.el
+    rust-playpen.el -> rust-playpen.el
+    rust-prog-mode.el -> rust-prog-mode.el
+    rust-rustfmt.el -> rust-rustfmt.el
+    rust-utils.el -> rust-utils.el
+Created rust-mode-20240515.245.tar containing:
+  rust-mode-20240515.245/
+  rust-mode-20240515.245/rust-cargo.el
+  rust-mode-20240515.245/rust-common.el
+  rust-mode-20240515.245/rust-compile.el
+  rust-mode-20240515.245/rust-mode-pkg.el
+  rust-mode-20240515.245/rust-mode-treesitter.el
+  rust-mode-20240515.245/rust-mode.el
+  rust-mode-20240515.245/rust-playpen.el
+  rust-mode-20240515.245/rust-prog-mode.el
+  rust-mode-20240515.245/rust-rustfmt.el
+  rust-mode-20240515.245/rust-utils.el
+ ✓ Success:
+  2024-05-19T23:51:02+0000  rust-mode-20240515.245.entry
+  2024-05-19T23:51:02+0000  rust-mode-20240515.245.tar
+Built rust-mode in 7.331s, finished at 2024-05-19T23:51:05+0000

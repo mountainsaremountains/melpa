@@ -1,0 +1,18 @@
+Package: cg
+Fetcher: github
+Source:  https://github.com/GrammarSoft/cg3.git
+
+Updating /mnt/store/melpa/working/cg/
+Checking out 06fb61345a4f3aae4bda74f3dfe261b1ec9d902d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cg/
+  to /tmp/cg2D0OAN/cg-20240430.2040
+  ! emacs/cg.el -> cg.el
+Created cg-20240430.2040.tar containing:
+  cg-20240430.2040/
+  cg-20240430.2040/cg-pkg.el
+  cg-20240430.2040/cg.el
+ ✓ Success:
+  2024-05-19T22:41:34+0000  cg-20240430.2040.entry
+  2024-05-19T22:41:34+0000  cg-20240430.2040.tar
+Built cg in 9.047s, finished at 2024-05-19T22:41:38+0000

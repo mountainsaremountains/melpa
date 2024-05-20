@@ -1,0 +1,20 @@
+Package: catppuccin-theme
+Fetcher: github
+Source:  https://github.com/catppuccin/emacs.git
+
+Updating /mnt/store/melpa/working/catppuccin-theme/
+Checking out 3d93abaa33e95f19b4a8b0e1e9bef1e3e68dd994
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/catppuccin-theme/
+  to /tmp/catppuccin-themeScwrAz/catppuccin-theme-20240326.900
+    catppuccin-theme.el -> catppuccin-theme.el
+    catppuccin-theme.test.el -> catppuccin-theme.test.el
+Created catppuccin-theme-20240326.900.tar containing:
+  catppuccin-theme-20240326.900/
+  catppuccin-theme-20240326.900/catppuccin-theme-pkg.el
+  catppuccin-theme-20240326.900/catppuccin-theme.el
+  catppuccin-theme-20240326.900/catppuccin-theme.test.el
+ ✓ Success:
+  2024-05-19T22:40:57+0000  catppuccin-theme-20240326.900.entry
+  2024-05-19T22:40:57+0000  catppuccin-theme-20240326.900.tar
+Built catppuccin-theme in 4.846s, finished at 2024-05-19T22:40:59+0000

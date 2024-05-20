@@ -1,0 +1,18 @@
+Package: buffer-wrap
+Fetcher: github
+Source:  https://github.com/jcs-elpa/buffer-wrap.git
+
+Updating /mnt/store/melpa/working/buffer-wrap/
+Checking out c2d12ef25ffac4827dc598d81fac75cb865663b6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buffer-wrap/
+  to /tmp/buffer-wrapDRnE6P/buffer-wrap-20240101.935
+    buffer-wrap.el -> buffer-wrap.el
+Created buffer-wrap-20240101.935.tar containing:
+  buffer-wrap-20240101.935/
+  buffer-wrap-20240101.935/buffer-wrap-pkg.el
+  buffer-wrap-20240101.935/buffer-wrap.el
+ ✓ Success:
+  2024-05-19T22:39:51+0000  buffer-wrap-20240101.935.entry
+  2024-05-19T22:39:51+0000  buffer-wrap-20240101.935.tar
+Built buffer-wrap in 4.664s, finished at 2024-05-19T22:39:53+0000

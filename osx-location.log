@@ -1,0 +1,20 @@
+Package: osx-location
+Fetcher: github
+Source:  https://github.com/purcell/osx-location.git
+
+Updating /mnt/store/melpa/working/osx-location/
+Checking out 733f116dbc56ac73bee3cebe4a489dc9eb37ab78
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/osx-location/
+  to /tmp/osx-locationgslNPa/osx-location-20200304.2209
+    osx-location.el -> osx-location.el
+    EmacsLocationHelper -> EmacsLocationHelper
+Created osx-location-20200304.2209.tar containing:
+  osx-location-20200304.2209/
+  osx-location-20200304.2209/EmacsLocationHelper
+  osx-location-20200304.2209/osx-location-pkg.el
+  osx-location-20200304.2209/osx-location.el
+ ✓ Success:
+  2024-05-19T23:40:22+0000  osx-location-20200304.2209.entry
+  2024-05-19T23:40:21+0000  osx-location-20200304.2209.tar
+Built osx-location in 5.298s, finished at 2024-05-19T23:40:24+0000

@@ -1,0 +1,18 @@
+Package: kotlin-ts-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/bricka/emacs-kotlin-ts-mode.git
+
+Updating /mnt/store/melpa/working/kotlin-ts-mode/
+Checking out 786b7eacb6c10b7a4e0c0537264264f299632679
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kotlin-ts-mode/
+  to /tmp/kotlin-ts-modeG3xgpw/kotlin-ts-mode-20240513.1429
+    kotlin-ts-mode.el -> kotlin-ts-mode.el
+Created kotlin-ts-mode-20240513.1429.tar containing:
+  kotlin-ts-mode-20240513.1429/
+  kotlin-ts-mode-20240513.1429/kotlin-ts-mode-pkg.el
+  kotlin-ts-mode-20240513.1429/kotlin-ts-mode.el
+ ✓ Success:
+  2024-05-19T23:22:34+0000  kotlin-ts-mode-20240513.1429.entry
+  2024-05-19T23:22:34+0000  kotlin-ts-mode-20240513.1429.tar
+Built kotlin-ts-mode in 4.802s, finished at 2024-05-19T23:22:36+0000
