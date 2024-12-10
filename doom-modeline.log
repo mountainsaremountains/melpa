@@ -1,0 +1,24 @@
+Package: doom-modeline
+Fetcher: github
+Source:  https://github.com/seagle0128/doom-modeline
+
+Updating /mnt/store/melpa/working/doom-modeline/
+Checking out 3fd392d46548b28b7687a039371d35028b33783b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/doom-modeline/
+  to /tmp/doom-modelineJ2tv3K/doom-modeline-20241202.1547
+    doom-modeline-core.el -> doom-modeline-core.el
+    doom-modeline-env.el -> doom-modeline-env.el
+    doom-modeline-segments.el -> doom-modeline-segments.el
+    doom-modeline.el -> doom-modeline.el
+Created doom-modeline-20241202.1547.tar containing:
+  doom-modeline-20241202.1547/
+  doom-modeline-20241202.1547/doom-modeline-core.el
+  doom-modeline-20241202.1547/doom-modeline-env.el
+  doom-modeline-20241202.1547/doom-modeline-pkg.el
+  doom-modeline-20241202.1547/doom-modeline-segments.el
+  doom-modeline-20241202.1547/doom-modeline.el
+ ✓ Success:
+  2024-12-10T00:46:07+0000  doom-modeline-20241202.1547.entry
+  2024-12-10T00:46:07+0000  doom-modeline-20241202.1547.tar
+Built doom-modeline in 1.319s, finished at 2024-12-10T00:46:07+0000

@@ -1,0 +1,20 @@
+Package: leuven-theme
+Fetcher: github
+Source:  https://github.com/fniessen/emacs-leuven-theme
+
+Updating /mnt/store/melpa/working/leuven-theme/
+Checking out 4f355a9832095c49ec109cfc5b8f82cd8c469572
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/leuven-theme/
+  to /tmp/leuven-theme896KP5/leuven-theme-20240713.929
+  ! lisp/leuven-dark-theme.el -> leuven-dark-theme.el
+  ! lisp/leuven-theme.el -> leuven-theme.el
+Created leuven-theme-20240713.929.tar containing:
+  leuven-theme-20240713.929/
+  leuven-theme-20240713.929/leuven-dark-theme.el
+  leuven-theme-20240713.929/leuven-theme-pkg.el
+  leuven-theme-20240713.929/leuven-theme.el
+ ✓ Success:
+  2024-12-10T01:11:33+0000  leuven-theme-20240713.929.entry
+  2024-12-10T01:11:33+0000  leuven-theme-20240713.929.tar
+Built leuven-theme in 2.457s, finished at 2024-12-10T01:11:34+0000

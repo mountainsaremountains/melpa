@@ -1,0 +1,22 @@
+Package: org-caldav
+Fetcher: github
+Source:  https://github.com/dengste/org-caldav
+
+Updating /mnt/store/melpa/working/org-caldav/
+Checking out f38e2010c485c71219387742228c16bee11e7b20
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-caldav/
+  to /tmp/org-caldavjhG7py/org-caldav-20241202.1624
+    org-caldav.el -> org-caldav.el
+  ! doc/org-caldav.texi -> org-caldav.texi
+Generating org-caldav.info
+Created org-caldav-20241202.1624.tar containing:
+  org-caldav-20241202.1624/
+  org-caldav-20241202.1624/dir
+  org-caldav-20241202.1624/org-caldav-pkg.el
+  org-caldav-20241202.1624/org-caldav.el
+  org-caldav-20241202.1624/org-caldav.info
+ ✓ Success:
+  2024-12-10T01:19:57+0000  org-caldav-20241202.1624.entry
+  2024-12-10T01:19:57+0000  org-caldav-20241202.1624.tar
+Built org-caldav in 2.391s, finished at 2024-12-10T01:19:58+0000

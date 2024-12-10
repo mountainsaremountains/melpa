@@ -1,0 +1,72 @@
+Package: expand-region
+Fetcher: github
+Source:  https://github.com/magnars/expand-region.el
+
+Updating /mnt/store/melpa/working/expand-region/
+Checking out 541d971f7c77ca5c0f66c88bcbfeb0d165883023
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/expand-region/
+  to /tmp/expand-regionP5hq6A/expand-region-20240919.1427
+    cc-mode-expansions.el -> cc-mode-expansions.el
+    clojure-mode-expansions.el -> clojure-mode-expansions.el
+    cperl-mode-expansions.el -> cperl-mode-expansions.el
+    css-mode-expansions.el -> css-mode-expansions.el
+    enh-ruby-mode-expansions.el -> enh-ruby-mode-expansions.el
+    er-basic-expansions.el -> er-basic-expansions.el
+    erlang-mode-expansions.el -> erlang-mode-expansions.el
+    expand-region-core.el -> expand-region-core.el
+    expand-region-custom.el -> expand-region-custom.el
+    expand-region.el -> expand-region.el
+    feature-mode-expansions.el -> feature-mode-expansions.el
+    html-mode-expansions.el -> html-mode-expansions.el
+    js-mode-expansions.el -> js-mode-expansions.el
+    js2-mode-expansions.el -> js2-mode-expansions.el
+    jsp-expansions.el -> jsp-expansions.el
+    latex-mode-expansions.el -> latex-mode-expansions.el
+    nxml-mode-expansions.el -> nxml-mode-expansions.el
+    octave-expansions.el -> octave-expansions.el
+    python-el-expansions.el -> python-el-expansions.el
+    python-el-fgallina-expansions.el -> python-el-fgallina-expansions.el
+    python-mode-expansions.el -> python-mode-expansions.el
+    ruby-mode-expansions.el -> ruby-mode-expansions.el
+    sml-mode-expansions.el -> sml-mode-expansions.el
+    subword-mode-expansions.el -> subword-mode-expansions.el
+    text-mode-expansions.el -> text-mode-expansions.el
+    the-org-mode-expansions.el -> the-org-mode-expansions.el
+    web-mode-expansions.el -> web-mode-expansions.el
+    yaml-mode-expansions.el -> yaml-mode-expansions.el
+Created expand-region-20240919.1427.tar containing:
+  expand-region-20240919.1427/
+  expand-region-20240919.1427/cc-mode-expansions.el
+  expand-region-20240919.1427/clojure-mode-expansions.el
+  expand-region-20240919.1427/cperl-mode-expansions.el
+  expand-region-20240919.1427/css-mode-expansions.el
+  expand-region-20240919.1427/enh-ruby-mode-expansions.el
+  expand-region-20240919.1427/er-basic-expansions.el
+  expand-region-20240919.1427/erlang-mode-expansions.el
+  expand-region-20240919.1427/expand-region-core.el
+  expand-region-20240919.1427/expand-region-custom.el
+  expand-region-20240919.1427/expand-region-pkg.el
+  expand-region-20240919.1427/expand-region.el
+  expand-region-20240919.1427/feature-mode-expansions.el
+  expand-region-20240919.1427/html-mode-expansions.el
+  expand-region-20240919.1427/js-mode-expansions.el
+  expand-region-20240919.1427/js2-mode-expansions.el
+  expand-region-20240919.1427/jsp-expansions.el
+  expand-region-20240919.1427/latex-mode-expansions.el
+  expand-region-20240919.1427/nxml-mode-expansions.el
+  expand-region-20240919.1427/octave-expansions.el
+  expand-region-20240919.1427/python-el-expansions.el
+  expand-region-20240919.1427/python-el-fgallina-expansions.el
+  expand-region-20240919.1427/python-mode-expansions.el
+  expand-region-20240919.1427/ruby-mode-expansions.el
+  expand-region-20240919.1427/sml-mode-expansions.el
+  expand-region-20240919.1427/subword-mode-expansions.el
+  expand-region-20240919.1427/text-mode-expansions.el
+  expand-region-20240919.1427/the-org-mode-expansions.el
+  expand-region-20240919.1427/web-mode-expansions.el
+  expand-region-20240919.1427/yaml-mode-expansions.el
+ ✓ Success:
+  2024-12-10T00:54:41+0000  expand-region-20240919.1427.entry
+  2024-12-10T00:54:41+0000  expand-region-20240919.1427.tar
+Built expand-region in 2.570s, finished at 2024-12-10T00:54:42+0000

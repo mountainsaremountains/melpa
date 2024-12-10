@@ -1,0 +1,34 @@
+Package: copilot-chat
+Fetcher: github
+Source:  https://github.com/chep/copilot-chat.el
+
+Updating /mnt/store/melpa/working/copilot-chat/
+Checking out da233facdc5a617397345a3577210cf55ff7a9c2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/copilot-chat/
+  to /tmp/copilot-chatEqom2K/copilot-chat-20241208.1307
+    copilot-chat-common.el -> copilot-chat-common.el
+    copilot-chat-copilot.el -> copilot-chat-copilot.el
+    copilot-chat-curl.el -> copilot-chat-curl.el
+    copilot-chat-markdown.el -> copilot-chat-markdown.el
+    copilot-chat-org.el -> copilot-chat-org.el
+    copilot-chat-request.el -> copilot-chat-request.el
+    copilot-chat-shell-maker.el -> copilot-chat-shell-maker.el
+    copilot-chat.el -> copilot-chat.el
+    test_copilot-chat.el -> test_copilot-chat.el
+Created copilot-chat-20241208.1307.tar containing:
+  copilot-chat-20241208.1307/
+  copilot-chat-20241208.1307/copilot-chat-common.el
+  copilot-chat-20241208.1307/copilot-chat-copilot.el
+  copilot-chat-20241208.1307/copilot-chat-curl.el
+  copilot-chat-20241208.1307/copilot-chat-markdown.el
+  copilot-chat-20241208.1307/copilot-chat-org.el
+  copilot-chat-20241208.1307/copilot-chat-pkg.el
+  copilot-chat-20241208.1307/copilot-chat-request.el
+  copilot-chat-20241208.1307/copilot-chat-shell-maker.el
+  copilot-chat-20241208.1307/copilot-chat.el
+  copilot-chat-20241208.1307/test_copilot-chat.el
+ ✓ Success:
+  2024-12-10T00:42:21+0000  copilot-chat-20241208.1307.entry
+  2024-12-10T00:42:21+0000  copilot-chat-20241208.1307.tar
+Built copilot-chat in 2.608s, finished at 2024-12-10T00:42:22+0000

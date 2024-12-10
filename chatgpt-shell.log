@@ -1,0 +1,32 @@
+Package: chatgpt-shell
+Fetcher: github
+Source:  https://github.com/xenodium/chatgpt-shell
+
+Updating /mnt/store/melpa/working/chatgpt-shell/
+Checking out 2b6fe835a9115b4aa0c893f393feba4b95a3673b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chatgpt-shell/
+  to /tmp/chatgpt-shell9ebkCR/chatgpt-shell-20241208.1836
+    chatgpt-shell-anthropic.el -> chatgpt-shell-anthropic.el
+    chatgpt-shell-google.el -> chatgpt-shell-google.el
+    chatgpt-shell-kagi.el -> chatgpt-shell-kagi.el
+    chatgpt-shell-ollama.el -> chatgpt-shell-ollama.el
+    chatgpt-shell-openai.el -> chatgpt-shell-openai.el
+    chatgpt-shell-perplexity.el -> chatgpt-shell-perplexity.el
+    chatgpt-shell-prompt-compose.el -> chatgpt-shell-prompt-compose.el
+    chatgpt-shell.el -> chatgpt-shell.el
+Created chatgpt-shell-20241208.1836.tar containing:
+  chatgpt-shell-20241208.1836/
+  chatgpt-shell-20241208.1836/chatgpt-shell-anthropic.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-google.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-kagi.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-ollama.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-openai.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-perplexity.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-pkg.el
+  chatgpt-shell-20241208.1836/chatgpt-shell-prompt-compose.el
+  chatgpt-shell-20241208.1836/chatgpt-shell.el
+ ✓ Success:
+  2024-12-10T00:39:06+0000  chatgpt-shell-20241208.1836.entry
+  2024-12-10T00:39:06+0000  chatgpt-shell-20241208.1836.tar
+Built chatgpt-shell in 2.630s, finished at 2024-12-10T00:39:07+0000

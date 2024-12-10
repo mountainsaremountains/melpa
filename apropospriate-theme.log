@@ -1,0 +1,23 @@
+Package: apropospriate-theme
+Fetcher: github
+Source:  https://github.com/waymondo/apropospriate-theme
+
+Updating /mnt/store/melpa/working/apropospriate-theme/
+Checking out 56c8c1b575106e72bcab2227fd73cf34f7f3df79
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/apropospriate-theme/
+  to /tmp/apropospriate-themeNqvCWl/apropospriate-theme-20241119.1
+    apropospriate-dark-theme.el -> apropospriate-dark-theme.el
+    apropospriate-light-theme.el -> apropospriate-light-theme.el
+    apropospriate-theme-pkg.el -> apropospriate-theme-pkg.el
+    apropospriate-theme.el -> apropospriate-theme.el
+Created apropospriate-theme-20241119.1.tar containing:
+  apropospriate-theme-20241119.1/
+  apropospriate-theme-20241119.1/apropospriate-dark-theme.el
+  apropospriate-theme-20241119.1/apropospriate-light-theme.el
+  apropospriate-theme-20241119.1/apropospriate-theme-pkg.el
+  apropospriate-theme-20241119.1/apropospriate-theme.el
+ ✓ Success:
+  2024-12-10T00:34:41+0000  apropospriate-theme-20241119.1.entry
+  2024-12-10T00:34:41+0000  apropospriate-theme-20241119.1.tar
+Built apropospriate-theme in 2.335s, finished at 2024-12-10T00:34:41+0000

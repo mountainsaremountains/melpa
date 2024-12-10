@@ -1,0 +1,18 @@
+Package: numpydoc
+Fetcher: github
+Source:  https://github.com/douglasdavis/numpydoc.el
+
+Updating /mnt/store/melpa/working/numpydoc/
+Checking out 77e2893442c6e20af9c99b9ba2c6c11988fe0e80
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/numpydoc/
+  to /tmp/numpydoco2WDic/numpydoc-20230811.1708
+    numpydoc.el -> numpydoc.el
+Created numpydoc-20230811.1708.tar containing:
+  numpydoc-20230811.1708/
+  numpydoc-20230811.1708/numpydoc-pkg.el
+  numpydoc-20230811.1708/numpydoc.el
+ ✓ Success:
+  2024-12-10T01:18:08+0000  numpydoc-20230811.1708.entry
+  2024-12-10T01:18:08+0000  numpydoc-20230811.1708.tar
+Built numpydoc in 2.016s, finished at 2024-12-10T01:18:09+0000

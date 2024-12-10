@@ -1,0 +1,22 @@
+Package: phpactor
+Fetcher: github
+Source:  https://github.com/emacs-php/phpactor.el
+
+Updating /mnt/store/melpa/working/phpactor/
+Checking out 922a4339d796f16c393400ea273ddf61539edf82
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/phpactor/
+  to /tmp/phpactorGUpRJN/phpactor-20241128.1559
+    phpactor.el -> phpactor.el
+    composer.json -> composer.json
+    composer.lock -> composer.lock
+Created phpactor-20241128.1559.tar containing:
+  phpactor-20241128.1559/
+  phpactor-20241128.1559/composer.json
+  phpactor-20241128.1559/composer.lock
+  phpactor-20241128.1559/phpactor-pkg.el
+  phpactor-20241128.1559/phpactor.el
+ ✓ Success:
+  2024-12-10T01:25:49+0000  phpactor-20241128.1559.entry
+  2024-12-10T01:25:49+0000  phpactor-20241128.1559.tar
+Built phpactor in 1.917s, finished at 2024-12-10T01:25:50+0000

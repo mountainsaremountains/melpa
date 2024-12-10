@@ -1,0 +1,18 @@
+Package: uniline
+Fetcher: github
+Source:  https://github.com/tbanel/uniline
+
+Updating /mnt/store/melpa/working/uniline/
+Checking out 527d28bc1b0b2b4aeccbdbf78293e1814e8ffadb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/uniline/
+  to /tmp/unilineKR5YxZ/uniline-20241209.1036
+    uniline.el -> uniline.el
+Created uniline-20241209.1036.tar containing:
+  uniline-20241209.1036/
+  uniline-20241209.1036/uniline-pkg.el
+  uniline-20241209.1036/uniline.el
+ ✓ Success:
+  2024-12-10T01:39:49+0000  uniline-20241209.1036.entry
+  2024-12-10T01:39:49+0000  uniline-20241209.1036.tar
+Built uniline in 2.703s, finished at 2024-12-10T01:39:50+0000

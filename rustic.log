@@ -1,0 +1,48 @@
+Package: rustic
+Fetcher: github
+Source:  https://github.com/emacs-rustic/rustic
+
+Updating /mnt/store/melpa/working/rustic/
+Checking out 9fdf5c76b20cfc2985d518b3a4ae7b9634b39999
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rustic/
+  to /tmp/rusticmYozs0/rustic-20241110.729
+    rustic-babel.el -> rustic-babel.el
+    rustic-cargo.el -> rustic-cargo.el
+    rustic-clippy.el -> rustic-clippy.el
+    rustic-comint.el -> rustic-comint.el
+    rustic-compile.el -> rustic-compile.el
+    rustic-doc.el -> rustic-doc.el
+    rustic-expand.el -> rustic-expand.el
+    rustic-flycheck.el -> rustic-flycheck.el
+    rustic-interaction.el -> rustic-interaction.el
+    rustic-lsp.el -> rustic-lsp.el
+    rustic-playground.el -> rustic-playground.el
+    rustic-popup.el -> rustic-popup.el
+    rustic-rustfix.el -> rustic-rustfix.el
+    rustic-rustfmt.el -> rustic-rustfmt.el
+    rustic-spellcheck.el -> rustic-spellcheck.el
+    rustic.el -> rustic.el
+Created rustic-20241110.729.tar containing:
+  rustic-20241110.729/
+  rustic-20241110.729/rustic-babel.el
+  rustic-20241110.729/rustic-cargo.el
+  rustic-20241110.729/rustic-clippy.el
+  rustic-20241110.729/rustic-comint.el
+  rustic-20241110.729/rustic-compile.el
+  rustic-20241110.729/rustic-doc.el
+  rustic-20241110.729/rustic-expand.el
+  rustic-20241110.729/rustic-flycheck.el
+  rustic-20241110.729/rustic-interaction.el
+  rustic-20241110.729/rustic-lsp.el
+  rustic-20241110.729/rustic-pkg.el
+  rustic-20241110.729/rustic-playground.el
+  rustic-20241110.729/rustic-popup.el
+  rustic-20241110.729/rustic-rustfix.el
+  rustic-20241110.729/rustic-rustfmt.el
+  rustic-20241110.729/rustic-spellcheck.el
+  rustic-20241110.729/rustic.el
+ ✓ Success:
+  2024-12-10T01:31:16+0000  rustic-20241110.729.entry
+  2024-12-10T01:31:16+0000  rustic-20241110.729.tar
+Built rustic in 1.786s, finished at 2024-12-10T01:31:17+0000

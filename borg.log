@@ -1,0 +1,26 @@
+Package: borg
+Fetcher: github
+Source:  https://github.com/emacscollective/borg
+
+Updating /mnt/store/melpa/working/borg/
+Checking out 497e1c02555852ee92d1c0ec70839e9ed93a02b8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/borg/
+  to /tmp/borgOHjlK3/borg-20241201.1406
+    borg-elpa.el -> borg-elpa.el
+    borg.el -> borg.el
+  ! docs/borg.texi -> borg.texi
+    borg.mk -> borg.mk
+Generating borg.info
+Created borg-20241201.1406.tar containing:
+  borg-20241201.1406/
+  borg-20241201.1406/borg-elpa.el
+  borg-20241201.1406/borg-pkg.el
+  borg-20241201.1406/borg.el
+  borg-20241201.1406/borg.info
+  borg-20241201.1406/borg.mk
+  borg-20241201.1406/dir
+ ✓ Success:
+  2024-12-10T00:37:21+0000  borg-20241201.1406.entry
+  2024-12-10T00:37:21+0000  borg-20241201.1406.tar
+Built borg in 2.872s, finished at 2024-12-10T00:37:22+0000

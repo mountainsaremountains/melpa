@@ -1,0 +1,40 @@
+Package: docker
+Fetcher: github
+Source:  https://github.com/Silex/docker.el
+
+Updating /mnt/store/melpa/working/docker/
+Checking out ec2391a8e3404958cefee3dda23b2c89dcf807a2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/docker/
+  to /tmp/dockerDrowlS/docker-20241111.859
+    docker-compose.el -> docker-compose.el
+    docker-container.el -> docker-container.el
+    docker-context.el -> docker-context.el
+    docker-core.el -> docker-core.el
+    docker-faces.el -> docker-faces.el
+    docker-group.el -> docker-group.el
+    docker-image.el -> docker-image.el
+    docker-network.el -> docker-network.el
+    docker-process.el -> docker-process.el
+    docker-utils.el -> docker-utils.el
+    docker-volume.el -> docker-volume.el
+    docker.el -> docker.el
+Created docker-20241111.859.tar containing:
+  docker-20241111.859/
+  docker-20241111.859/docker-compose.el
+  docker-20241111.859/docker-container.el
+  docker-20241111.859/docker-context.el
+  docker-20241111.859/docker-core.el
+  docker-20241111.859/docker-faces.el
+  docker-20241111.859/docker-group.el
+  docker-20241111.859/docker-image.el
+  docker-20241111.859/docker-network.el
+  docker-20241111.859/docker-pkg.el
+  docker-20241111.859/docker-process.el
+  docker-20241111.859/docker-utils.el
+  docker-20241111.859/docker-volume.el
+  docker-20241111.859/docker.el
+ ✓ Success:
+  2024-12-10T00:45:56+0000  docker-20241111.859.entry
+  2024-12-10T00:45:56+0000  docker-20241111.859.tar
+Built docker in 0.973s, finished at 2024-12-10T00:45:56+0000

@@ -1,0 +1,24 @@
+Package: rime
+Fetcher: github
+Source:  https://github.com/DogLooksGood/emacs-rime
+
+Updating /mnt/store/melpa/working/rime/
+Checking out 8837e4b86d3cef73079a3f4ad6d3c79885236aa5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rime/
+  to /tmp/rimeBf8Y2q/rime-20241106.2056
+    rime-predicates.el -> rime-predicates.el
+    rime.el -> rime.el
+    lib.c -> lib.c
+    Makefile -> Makefile
+Created rime-20241106.2056.tar containing:
+  rime-20241106.2056/
+  rime-20241106.2056/Makefile
+  rime-20241106.2056/lib.c
+  rime-20241106.2056/rime-pkg.el
+  rime-20241106.2056/rime-predicates.el
+  rime-20241106.2056/rime.el
+ ✓ Success:
+  2024-12-10T01:30:39+0000  rime-20241106.2056.entry
+  2024-12-10T01:30:39+0000  rime-20241106.2056.tar
+Built rime in 2.193s, finished at 2024-12-10T01:30:40+0000

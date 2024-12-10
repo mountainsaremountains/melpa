@@ -1,0 +1,39 @@
+Package: ekg
+Fetcher: github
+Source:  https://github.com/ahyatt/ekg
+
+Updating /mnt/store/melpa/working/ekg/
+Checking out 942457bb75574f17058cba1da25e46aeee3fde4b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ekg/
+  to /tmp/ekgirw4qG/ekg-20241118.224
+    ekg-auto-save.el -> ekg-auto-save.el
+    ekg-denote.el -> ekg-denote.el
+    ekg-embedding.el -> ekg-embedding.el
+    ekg-llm.el -> ekg-llm.el
+    ekg-logseq.el -> ekg-logseq.el
+    ekg-org-roam.el -> ekg-org-roam.el
+    ekg-test-utils.el -> ekg-test-utils.el
+    ekg.el -> ekg.el
+  ! doc/doclicense.texi -> doclicense.texi
+  ! doc/ekg.texi -> ekg.texi
+Generating doclicense.info
+Generating ekg.info
+Created ekg-20241118.224.tar containing:
+  ekg-20241118.224/
+  ekg-20241118.224/dir
+  ekg-20241118.224/doclicense.info
+  ekg-20241118.224/ekg-auto-save.el
+  ekg-20241118.224/ekg-denote.el
+  ekg-20241118.224/ekg-embedding.el
+  ekg-20241118.224/ekg-llm.el
+  ekg-20241118.224/ekg-logseq.el
+  ekg-20241118.224/ekg-org-roam.el
+  ekg-20241118.224/ekg-pkg.el
+  ekg-20241118.224/ekg-test-utils.el
+  ekg-20241118.224/ekg.el
+  ekg-20241118.224/ekg.info
+ ✓ Success:
+  2024-12-10T00:48:10+0000  ekg-20241118.224.entry
+  2024-12-10T00:48:10+0000  ekg-20241118.224.tar
+Built ekg in 4.803s, finished at 2024-12-10T00:48:10+0000
