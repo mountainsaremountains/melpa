@@ -1,0 +1,30 @@
+
+ • Building package fpga
+From https://github.com/gmlarumbe/fpga
+Updating /mnt/store/melpa/working/fpga/
+Checking out fede50a1622295fa9ae6369e8a99c85a1e39f4f4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fpga/
+  to /tmp/fpga-QFnwGc/fpga-20260714.1045/
+    fpga-altera.el -> fpga-altera.el
+    fpga-cadence.el -> fpga-cadence.el
+    fpga-lattice.el -> fpga-lattice.el
+    fpga-siemens.el -> fpga-siemens.el
+    fpga-synopsys.el -> fpga-synopsys.el
+    fpga-utils.el -> fpga-utils.el
+    fpga-xilinx.el -> fpga-xilinx.el
+    fpga-yosys.el -> fpga-yosys.el
+    fpga.el -> fpga.el
+Created fpga-20260714.1045.tar containing:
+  fpga-20260714.1045/
+  fpga-20260714.1045/fpga-altera.el
+  fpga-20260714.1045/fpga-cadence.el
+  fpga-20260714.1045/fpga-lattice.el
+  fpga-20260714.1045/fpga-pkg.el
+  fpga-20260714.1045/fpga-siemens.el
+  fpga-20260714.1045/fpga-synopsys.el
+  fpga-20260714.1045/fpga-utils.el
+  fpga-20260714.1045/fpga-xilinx.el
+  fpga-20260714.1045/fpga-yosys.el
+  fpga-20260714.1045/fpga.el
+Built fpga in 3.275s, finished at 2026-07-15T13:50:45+0000

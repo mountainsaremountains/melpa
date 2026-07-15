@@ -1,0 +1,22 @@
+
+ • Building package borg
+From https://github.com/emacscollective/borg
+Updating /mnt/store/melpa/working/borg/
+Checking out a844569c8ef24408ba0df31d5cd58be9d955efce
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/borg/
+  to /tmp/borg-8KOcV6/borg-20260701.1437/
+    borg-elpa.el -> borg-elpa.el
+    borg.el -> borg.el
+  ! docs/borg.texi -> borg.texi
+    borg.mk -> borg.mk
+Generating borg.info
+Created borg-20260701.1437.tar containing:
+  borg-20260701.1437/
+  borg-20260701.1437/borg-elpa.el
+  borg-20260701.1437/borg-pkg.el
+  borg-20260701.1437/borg.el
+  borg-20260701.1437/borg.info
+  borg-20260701.1437/borg.mk
+  borg-20260701.1437/dir
+Built borg in 9.986s, finished at 2026-07-15T13:29:03+0000

@@ -1,0 +1,22 @@
+
+ • Building package batppuccin
+From https://github.com/bbatsov/batppuccin-emacs
+Updating /mnt/store/melpa/working/batppuccin/
+Checking out 5fc17c1c403bed4b7728ee0afbb4563749fd381d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/batppuccin/
+  to /tmp/batppuccin-OLvz4F/batppuccin-20260703.608/
+    batppuccin-frappe-theme.el -> batppuccin-frappe-theme.el
+    batppuccin-latte-theme.el -> batppuccin-latte-theme.el
+    batppuccin-macchiato-theme.el -> batppuccin-macchiato-theme.el
+    batppuccin-mocha-theme.el -> batppuccin-mocha-theme.el
+    batppuccin.el -> batppuccin.el
+Created batppuccin-20260703.608.tar containing:
+  batppuccin-20260703.608/
+  batppuccin-20260703.608/batppuccin-frappe-theme.el
+  batppuccin-20260703.608/batppuccin-latte-theme.el
+  batppuccin-20260703.608/batppuccin-macchiato-theme.el
+  batppuccin-20260703.608/batppuccin-mocha-theme.el
+  batppuccin-20260703.608/batppuccin-pkg.el
+  batppuccin-20260703.608/batppuccin.el
+Built batppuccin in 3.271s, finished at 2026-07-15T13:27:17+0000

@@ -1,0 +1,20 @@
+
+ • Building package rime
+From https://github.com/DogLooksGood/emacs-rime
+Updating /mnt/store/melpa/working/rime/
+Checking out f927d26e471e7d63de65ffa92897944242f2fd92
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rime/
+  to /tmp/rime-pQP4Zr/rime-20251105.1505/
+    rime-predicates.el -> rime-predicates.el
+    rime.el -> rime.el
+    lib.c -> lib.c
+    Makefile -> Makefile
+Created rime-20251105.1505.tar containing:
+  rime-20251105.1505/
+  rime-20251105.1505/Makefile
+  rime-20251105.1505/lib.c
+  rime-20251105.1505/rime-pkg.el
+  rime-20251105.1505/rime-predicates.el
+  rime-20251105.1505/rime.el
+Built rime in 3.538s, finished at 2026-07-15T14:28:36+0000

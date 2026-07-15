@@ -1,0 +1,14 @@
+
+ • Building package fix-input
+From https://github.com/mrkkrp/fix-input
+Updating /mnt/store/melpa/working/fix-input/
+Checking out 439c1ce8c0a66ecdee4a4b25a1b96197d926b1c3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fix-input/
+  to /tmp/fix-input-300uLO/fix-input-20230606.1523/
+    fix-input.el -> fix-input.el
+Created fix-input-20230606.1523.tar containing:
+  fix-input-20230606.1523/
+  fix-input-20230606.1523/fix-input-pkg.el
+  fix-input-20230606.1523/fix-input.el
+Built fix-input in 3.407s, finished at 2026-07-15T13:47:10+0000

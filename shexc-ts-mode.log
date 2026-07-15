@@ -1,0 +1,44 @@
+
+ • Building package shexc-ts-mode
+From https://github.com/ericprud/shexc-mode-for-emacs
+Updating /mnt/store/melpa/working/shexc-ts-mode/
+Checking out d113ddc322a7cca2ef92ee6af95e5755af429ccb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/shexc-ts-mode/
+  to /tmp/shexc-ts-mode-yhzVLA/shexc-ts-mode-20260705.2334/
+    rdf-bgp.el -> rdf-bgp.el
+    rdf-core.el -> rdf-core.el
+    rdf-isomorphism.el -> rdf-isomorphism.el
+    rdf-join.el -> rdf-join.el
+    rdf-model.el -> rdf-model.el
+    rdf-store.el -> rdf-store.el
+    rdf-turtle.el -> rdf-turtle.el
+    shex-manifest-browser.el -> shex-manifest-browser.el
+    shex-validate.el -> shex-validate.el
+    shexc-shexj.el -> shexc-shexj.el
+    shexc-shexpath.el -> shexc-shexpath.el
+    shexc-shexr.el -> shexc-shexr.el
+    shexc-ts-mode-convert.el -> shexc-ts-mode-convert.el
+    shexc-ts-mode.el -> shexc-ts-mode.el
+    try-packages.el -> try-packages.el
+    turtle-ts-mode.el -> turtle-ts-mode.el
+Created shexc-ts-mode-20260705.2334.tar containing:
+  shexc-ts-mode-20260705.2334/
+  shexc-ts-mode-20260705.2334/rdf-bgp.el
+  shexc-ts-mode-20260705.2334/rdf-core.el
+  shexc-ts-mode-20260705.2334/rdf-isomorphism.el
+  shexc-ts-mode-20260705.2334/rdf-join.el
+  shexc-ts-mode-20260705.2334/rdf-model.el
+  shexc-ts-mode-20260705.2334/rdf-store.el
+  shexc-ts-mode-20260705.2334/rdf-turtle.el
+  shexc-ts-mode-20260705.2334/shex-manifest-browser.el
+  shexc-ts-mode-20260705.2334/shex-validate.el
+  shexc-ts-mode-20260705.2334/shexc-shexj.el
+  shexc-ts-mode-20260705.2334/shexc-shexpath.el
+  shexc-ts-mode-20260705.2334/shexc-shexr.el
+  shexc-ts-mode-20260705.2334/shexc-ts-mode-convert.el
+  shexc-ts-mode-20260705.2334/shexc-ts-mode-pkg.el
+  shexc-ts-mode-20260705.2334/shexc-ts-mode.el
+  shexc-ts-mode-20260705.2334/try-packages.el
+  shexc-ts-mode-20260705.2334/turtle-ts-mode.el
+Built shexc-ts-mode in 3.118s, finished at 2026-07-15T14:31:34+0000

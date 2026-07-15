@@ -1,0 +1,14 @@
+
+ • Building package org-modern
+From https://github.com/minad/org-modern
+Updating /mnt/store/melpa/working/org-modern/
+Checking out d41bedbab849745bd10e300b8d93a17bc78a5ad6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-modern/
+  to /tmp/org-modern-FkHE5T/org-modern-20260707.1016/
+    org-modern.el -> org-modern.el
+Created org-modern-20260707.1016.tar containing:
+  org-modern-20260707.1016/
+  org-modern-20260707.1016/org-modern-pkg.el
+  org-modern-20260707.1016/org-modern.el
+Built org-modern in 3.438s, finished at 2026-07-15T14:18:29+0000

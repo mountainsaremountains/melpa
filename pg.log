@@ -1,0 +1,22 @@
+
+ • Building package pg
+From https://github.com/emarsden/pg-el
+Updating /mnt/store/melpa/working/pg/
+Checking out 7426269673da42ed6706db44d2b7d1696ede95f6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pg/
+  to /tmp/pg-stTEWv/pg-20260607.1014/
+    pg-bm25.el -> pg-bm25.el
+    pg-geometry.el -> pg-geometry.el
+    pg-gis.el -> pg-gis.el
+    pg-lo.el -> pg-lo.el
+    pg.el -> pg.el
+Created pg-20260607.1014.tar containing:
+  pg-20260607.1014/
+  pg-20260607.1014/pg-bm25.el
+  pg-20260607.1014/pg-geometry.el
+  pg-20260607.1014/pg-gis.el
+  pg-20260607.1014/pg-lo.el
+  pg-20260607.1014/pg-pkg.el
+  pg-20260607.1014/pg.el
+Built pg in 6.527s, finished at 2026-07-15T14:22:48+0000

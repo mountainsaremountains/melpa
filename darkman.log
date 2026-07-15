@@ -1,0 +1,17 @@
+
+ • Building package darkman
+From https://git.sr.ht/~grtcdr/darkman.el
+Updating /mnt/store/melpa/working/darkman/
+Checking out ee99dfcdc1f48330d0fbb565f8db7664eee34643
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/darkman/
+  to /tmp/darkman-qkg4JK/darkman-20260414.1055/
+    darkman.el -> darkman.el
+    darkman.info -> darkman.info
+Created darkman-20260414.1055.tar containing:
+  darkman-20260414.1055/
+  darkman-20260414.1055/darkman-pkg.el
+  darkman-20260414.1055/darkman.el
+  darkman-20260414.1055/darkman.info
+  darkman-20260414.1055/dir
+Built darkman in 4.022s, finished at 2026-07-15T13:36:42+0000

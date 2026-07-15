@@ -1,0 +1,34 @@
+
+ • Building package grove
+From https://github.com/jonathanchu/grove
+Updating /mnt/store/melpa/working/grove/
+Checking out 8cb33df4e39c51265b8021ecf858ab4bde27f41e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/grove/
+  to /tmp/grove-hzMkHw/grove-20260509.358/
+    grove-backlink.el -> grove-backlink.el
+    grove-capture.el -> grove-capture.el
+    grove-core.el -> grove-core.el
+    grove-daily.el -> grove-daily.el
+    grove-graph.el -> grove-graph.el
+    grove-inbox.el -> grove-inbox.el
+    grove-link.el -> grove-link.el
+    grove-search.el -> grove-search.el
+    grove-tree.el -> grove-tree.el
+    grove-ui.el -> grove-ui.el
+    grove.el -> grove.el
+Created grove-20260509.358.tar containing:
+  grove-20260509.358/
+  grove-20260509.358/grove-backlink.el
+  grove-20260509.358/grove-capture.el
+  grove-20260509.358/grove-core.el
+  grove-20260509.358/grove-daily.el
+  grove-20260509.358/grove-graph.el
+  grove-20260509.358/grove-inbox.el
+  grove-20260509.358/grove-link.el
+  grove-20260509.358/grove-pkg.el
+  grove-20260509.358/grove-search.el
+  grove-20260509.358/grove-tree.el
+  grove-20260509.358/grove-ui.el
+  grove-20260509.358/grove.el
+Built grove in 3.291s, finished at 2026-07-15T13:54:07+0000

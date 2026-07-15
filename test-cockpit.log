@@ -1,0 +1,24 @@
+
+ • Building package test-cockpit
+From https://github.com/johannes-mueller/test-cockpit.el
+Updating /mnt/store/melpa/working/test-cockpit/
+Checking out eaa2c9346085ccf1fb7e7a9430255b50c057ea15
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/test-cockpit/
+  to /tmp/test-cockpit-Hlxtrj/test-cockpit-20260313.1904/
+    test-cockpit-cargo.el -> test-cockpit-cargo.el
+    test-cockpit-cask.el -> test-cockpit-cask.el
+    test-cockpit-mix.el -> test-cockpit-mix.el
+    test-cockpit-npm-jest.el -> test-cockpit-npm-jest.el
+    test-cockpit-python.el -> test-cockpit-python.el
+    test-cockpit.el -> test-cockpit.el
+Created test-cockpit-20260313.1904.tar containing:
+  test-cockpit-20260313.1904/
+  test-cockpit-20260313.1904/test-cockpit-cargo.el
+  test-cockpit-20260313.1904/test-cockpit-cask.el
+  test-cockpit-20260313.1904/test-cockpit-mix.el
+  test-cockpit-20260313.1904/test-cockpit-npm-jest.el
+  test-cockpit-20260313.1904/test-cockpit-pkg.el
+  test-cockpit-20260313.1904/test-cockpit-python.el
+  test-cockpit-20260313.1904/test-cockpit.el
+Built test-cockpit in 5.437s, finished at 2026-07-15T14:37:11+0000

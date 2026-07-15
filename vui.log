@@ -1,0 +1,16 @@
+
+ • Building package vui
+From https://github.com/d12frosted/vui.el
+Updating /mnt/store/melpa/working/vui/
+Checking out 9101db52a29c4276b45f85e63924008f0e41c39c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vui/
+  to /tmp/vui-6ASPGE/vui-20260702.1513/
+    vui-components.el -> vui-components.el
+    vui.el -> vui.el
+Created vui-20260702.1513.tar containing:
+  vui-20260702.1513/
+  vui-20260702.1513/vui-components.el
+  vui-20260702.1513/vui-pkg.el
+  vui-20260702.1513/vui.el
+Built vui in 3.850s, finished at 2026-07-15T14:41:27+0000

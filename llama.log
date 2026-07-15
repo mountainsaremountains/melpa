@@ -1,0 +1,16 @@
+
+ • Building package llama
+From https://github.com/tarsius/llama
+Updating /mnt/store/melpa/working/llama/
+Checking out 4d4024048053b898a01521046e0f063ee47615b0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/llama/
+  to /tmp/llama-L3EYQ0/llama-20260601.1455/
+    llama.el -> llama.el
+    .dir-locals.el -> .dir-locals.el
+Created llama-20260601.1455.tar containing:
+  llama-20260601.1455/
+  llama-20260601.1455/.dir-locals.el
+  llama-20260601.1455/llama-pkg.el
+  llama-20260601.1455/llama.el
+Built llama in 3.680s, finished at 2026-07-15T14:06:08+0000
