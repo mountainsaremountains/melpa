@@ -1,0 +1,26 @@
+
+ • Building package ivy
+From https://github.com/abo-abo/swiper
+Updating /mnt/store/melpa/working/ivy/
+Checking out 0d02f5063d36ff4fa6138f0973c83c6d3874fba0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ivy/
+  to /tmp/ivy-VltFRD/ivy-20260413.2102/
+    colir.el -> colir.el
+    ivy-faces.el -> ivy-faces.el
+    ivy-overlay.el -> ivy-overlay.el
+    ivy.el -> ivy.el
+  ! doc/ivy.texi -> ivy.texi
+  ! doc/ivy-help.org -> ivy-help.org
+Generating ivy.info
+Created ivy-20260413.2102.tar containing:
+  ivy-20260413.2102/
+  ivy-20260413.2102/colir.el
+  ivy-20260413.2102/dir
+  ivy-20260413.2102/ivy-faces.el
+  ivy-20260413.2102/ivy-help.org
+  ivy-20260413.2102/ivy-overlay.el
+  ivy-20260413.2102/ivy-pkg.el
+  ivy-20260413.2102/ivy.el
+  ivy-20260413.2102/ivy.info
+Built ivy in 7.067s, finished at 2026-07-15T14:00:44+0000

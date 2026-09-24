@@ -1,0 +1,18 @@
+
+ • Building package term-cmd
+From https://github.com/calliecameron/term-cmd
+Updating /mnt/store/melpa/working/term-cmd/
+Checking out 15f737427b21adc722a76a71c0aaeb2dcb95efbc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/term-cmd/
+  to /tmp/term-cmd-gIaatK/term-cmd-20260510.1834/
+    term-cmd-pkg.el -> term-cmd-pkg.el
+    term-cmd.el -> term-cmd.el
+    bin => bin
+Created term-cmd-20260510.1834.tar containing:
+  term-cmd-20260510.1834/
+  term-cmd-20260510.1834/bin/
+  term-cmd-20260510.1834/bin/emacs-term-cmd
+  term-cmd-20260510.1834/term-cmd-pkg.el
+  term-cmd-20260510.1834/term-cmd.el
+Built term-cmd in 4.838s, finished at 2026-07-15T14:36:52+0000

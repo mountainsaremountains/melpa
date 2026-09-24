@@ -1,0 +1,14 @@
+
+ • Building package whiley-mode
+From https://github.com/Whiley/WhileyEmacsMode
+Updating /mnt/store/melpa/working/whiley-mode/
+Checking out e7cc4759d46be589d421a2235af6771bcde9ae33
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/whiley-mode/
+  to /tmp/whiley-mode-vX30wT/whiley-mode-20220501.2219/
+    whiley-mode.el -> whiley-mode.el
+Created whiley-mode-20220501.2219.tar containing:
+  whiley-mode-20220501.2219/
+  whiley-mode-20220501.2219/whiley-mode-pkg.el
+  whiley-mode-20220501.2219/whiley-mode.el
+Built whiley-mode in 3.298s, finished at 2026-07-15T14:42:16+0000

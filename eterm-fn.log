@@ -1,0 +1,18 @@
+
+ • Building package eterm-fn
+From https://github.com/oitofelix/eterm-fn
+Updating /mnt/store/melpa/working/eterm-fn/
+Checking out b5d433fedc030046ea0e4a217f4dd3846a113fe4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eterm-fn/
+  to /tmp/eterm-fn-utdE50/eterm-fn-20250110.1354/
+    eterm-fn.el -> eterm-fn.el
+    eterm-fn-256color.ti -> eterm-fn-256color.ti
+    eterm-fn-color.ti -> eterm-fn-color.ti
+Created eterm-fn-20250110.1354.tar containing:
+  eterm-fn-20250110.1354/
+  eterm-fn-20250110.1354/eterm-fn-256color.ti
+  eterm-fn-20250110.1354/eterm-fn-color.ti
+  eterm-fn-20250110.1354/eterm-fn-pkg.el
+  eterm-fn-20250110.1354/eterm-fn.el
+Built eterm-fn in 2.896s, finished at 2026-07-15T13:44:49+0000

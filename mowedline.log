@@ -1,0 +1,14 @@
+
+ • Building package mowedline
+From https://github.com/retroj/mowedline
+Updating /mnt/store/melpa/working/mowedline/
+Checking out c17501b48ded8261d815ab60bf14cddf7040be72
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mowedline/
+  to /tmp/mowedline-r3KJRf/mowedline-20171218.237/
+    mowedline.el -> mowedline.el
+Created mowedline-20171218.237.tar containing:
+  mowedline-20171218.237/
+  mowedline-20171218.237/mowedline-pkg.el
+  mowedline-20171218.237/mowedline.el
+Built mowedline in 3.081s, finished at 2026-07-15T14:11:02+0000

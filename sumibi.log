@@ -1,0 +1,20 @@
+
+ • Building package sumibi
+From https://github.com/kiyoka/Sumibi
+Updating /mnt/store/melpa/working/sumibi/
+Checking out f5674b69135a49aa3d531d148609942e0b09913b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sumibi/
+  to /tmp/sumibi-y9bSpz/sumibi-20260612.324/
+  ! lisp/sumibi-chinese.el -> sumibi-chinese.el
+  ! lisp/sumibi-english-words.el -> sumibi-english-words.el
+  ! lisp/sumibi-localdic.el -> sumibi-localdic.el
+  ! lisp/sumibi.el -> sumibi.el
+Created sumibi-20260612.324.tar containing:
+  sumibi-20260612.324/
+  sumibi-20260612.324/sumibi-chinese.el
+  sumibi-20260612.324/sumibi-english-words.el
+  sumibi-20260612.324/sumibi-localdic.el
+  sumibi-20260612.324/sumibi-pkg.el
+  sumibi-20260612.324/sumibi.el
+Built sumibi in 8.917s, finished at 2026-07-15T14:35:10+0000

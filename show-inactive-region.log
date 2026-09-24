@@ -1,0 +1,14 @@
+
+ • Building package show-inactive-region
+From https://codeberg.org/ideasman42/emacs-show-inactive-region
+Updating /mnt/store/melpa/working/show-inactive-region/
+Checking out c870fe641c56328458e16d92fd7aedf688844a3b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/show-inactive-region/
+  to /tmp/show-inactive-region-7Ue1HI/show-inactive-region-20260612.949/
+    show-inactive-region.el -> show-inactive-region.el
+Created show-inactive-region-20260612.949.tar containing:
+  show-inactive-region-20260612.949/
+  show-inactive-region-20260612.949/show-inactive-region-pkg.el
+  show-inactive-region-20260612.949/show-inactive-region.el
+Built show-inactive-region in 3.685s, finished at 2026-07-15T14:31:42+0000

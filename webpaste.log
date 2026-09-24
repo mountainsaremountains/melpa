@@ -1,0 +1,14 @@
+
+ • Building package webpaste
+From https://github.com/etu/webpaste.el
+Updating /mnt/store/melpa/working/webpaste/
+Checking out e2a41530257f04b7ad2198d333adcf247a05277c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/webpaste/
+  to /tmp/webpaste-xECRDP/webpaste-20241125.1418/
+    webpaste.el -> webpaste.el
+Created webpaste-20241125.1418.tar containing:
+  webpaste-20241125.1418/
+  webpaste-20241125.1418/webpaste-pkg.el
+  webpaste-20241125.1418/webpaste.el
+Built webpaste in 3.989s, finished at 2026-07-15T14:42:03+0000

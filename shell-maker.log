@@ -1,0 +1,18 @@
+
+ • Building package shell-maker
+From https://github.com/xenodium/shell-maker
+Updating /mnt/store/melpa/working/shell-maker/
+Checking out 071c6df3ca22a2f4c0daa689848ac9bd21bf4e2b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/shell-maker/
+  to /tmp/shell-maker-cmYNar/shell-maker-20260713.844/
+    markdown-overlays-tables.el -> markdown-overlays-tables.el
+    markdown-overlays.el -> markdown-overlays.el
+    shell-maker.el -> shell-maker.el
+Created shell-maker-20260713.844.tar containing:
+  shell-maker-20260713.844/
+  shell-maker-20260713.844/markdown-overlays-tables.el
+  shell-maker-20260713.844/markdown-overlays.el
+  shell-maker-20260713.844/shell-maker-pkg.el
+  shell-maker-20260713.844/shell-maker.el
+Built shell-maker in 3.648s, finished at 2026-07-15T14:31:28+0000

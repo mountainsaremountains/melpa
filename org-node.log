@@ -1,0 +1,26 @@
+
+ • Building package org-node
+From https://github.com/meedstrom/org-node
+Updating /mnt/store/melpa/working/org-node/
+Checking out 10ea878528a24ae9bf6903da198f347d093f2b11
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-node/
+  to /tmp/org-node-P8S59h/org-node-20260309.1528/
+    org-node-backlink.el -> org-node-backlink.el
+    org-node-changes.el -> org-node-changes.el
+    org-node-context.el -> org-node-context.el
+    org-node-seq.el -> org-node-seq.el
+    org-node.el -> org-node.el
+    org-node.texi -> org-node.texi
+Generating org-node.info
+Created org-node-20260309.1528.tar containing:
+  org-node-20260309.1528/
+  org-node-20260309.1528/dir
+  org-node-20260309.1528/org-node-backlink.el
+  org-node-20260309.1528/org-node-changes.el
+  org-node-20260309.1528/org-node-context.el
+  org-node-20260309.1528/org-node-pkg.el
+  org-node-20260309.1528/org-node-seq.el
+  org-node-20260309.1528/org-node.el
+  org-node-20260309.1528/org-node.info
+Built org-node in 6.454s, finished at 2026-07-15T14:18:38+0000

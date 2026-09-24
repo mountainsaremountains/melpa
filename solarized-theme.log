@@ -1,0 +1,46 @@
+
+ • Building package solarized-theme
+From https://github.com/bbatsov/solarized-emacs
+Updating /mnt/store/melpa/working/solarized-theme/
+Checking out 0d9d9efff196d8d8ee4ac606e70bf062a057136b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/solarized-theme/
+  to /tmp/solarized-theme-HBjwuF/solarized-theme-20260610.1943/
+    solarized-dark-high-contrast-theme.el -> solarized-dark-high-contrast-theme.el
+    solarized-dark-theme.el -> solarized-dark-theme.el
+    solarized-faces.el -> solarized-faces.el
+    solarized-gruvbox-dark-theme.el -> solarized-gruvbox-dark-theme.el
+    solarized-gruvbox-light-theme.el -> solarized-gruvbox-light-theme.el
+    solarized-light-high-contrast-theme.el -> solarized-light-high-contrast-theme.el
+    solarized-light-theme.el -> solarized-light-theme.el
+    solarized-palettes.el -> solarized-palettes.el
+    solarized-selenized-black-theme.el -> solarized-selenized-black-theme.el
+    solarized-selenized-dark-theme.el -> solarized-selenized-dark-theme.el
+    solarized-selenized-light-theme.el -> solarized-selenized-light-theme.el
+    solarized-selenized-white-theme.el -> solarized-selenized-white-theme.el
+    solarized-theme-utils.el -> solarized-theme-utils.el
+    solarized-theme.el -> solarized-theme.el
+    solarized-wombat-dark-theme.el -> solarized-wombat-dark-theme.el
+    solarized-zenburn-theme.el -> solarized-zenburn-theme.el
+    solarized.el -> solarized.el
+Created solarized-theme-20260610.1943.tar containing:
+  solarized-theme-20260610.1943/
+  solarized-theme-20260610.1943/solarized-dark-high-contrast-theme.el
+  solarized-theme-20260610.1943/solarized-dark-theme.el
+  solarized-theme-20260610.1943/solarized-faces.el
+  solarized-theme-20260610.1943/solarized-gruvbox-dark-theme.el
+  solarized-theme-20260610.1943/solarized-gruvbox-light-theme.el
+  solarized-theme-20260610.1943/solarized-light-high-contrast-theme.el
+  solarized-theme-20260610.1943/solarized-light-theme.el
+  solarized-theme-20260610.1943/solarized-palettes.el
+  solarized-theme-20260610.1943/solarized-selenized-black-theme.el
+  solarized-theme-20260610.1943/solarized-selenized-dark-theme.el
+  solarized-theme-20260610.1943/solarized-selenized-light-theme.el
+  solarized-theme-20260610.1943/solarized-selenized-white-theme.el
+  solarized-theme-20260610.1943/solarized-theme-pkg.el
+  solarized-theme-20260610.1943/solarized-theme-utils.el
+  solarized-theme-20260610.1943/solarized-theme.el
+  solarized-theme-20260610.1943/solarized-wombat-dark-theme.el
+  solarized-theme-20260610.1943/solarized-zenburn-theme.el
+  solarized-theme-20260610.1943/solarized.el
+Built solarized-theme in 3.722s, finished at 2026-07-15T14:33:19+0000

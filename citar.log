@@ -1,0 +1,30 @@
+
+ • Building package citar
+From https://github.com/emacs-citar/citar
+Updating /mnt/store/melpa/working/citar/
+Checking out d2289669fea76ae7b2f7ad04794fcc230d65e055
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citar/
+  to /tmp/citar-KjRgtq/citar-20260706.1221/
+    citar-cache.el -> citar-cache.el
+    citar-capf.el -> citar-capf.el
+    citar-citeproc.el -> citar-citeproc.el
+    citar-file.el -> citar-file.el
+    citar-format.el -> citar-format.el
+    citar-latex.el -> citar-latex.el
+    citar-markdown.el -> citar-markdown.el
+    citar-org.el -> citar-org.el
+    citar.el -> citar.el
+Created citar-20260706.1221.tar containing:
+  citar-20260706.1221/
+  citar-20260706.1221/citar-cache.el
+  citar-20260706.1221/citar-capf.el
+  citar-20260706.1221/citar-citeproc.el
+  citar-20260706.1221/citar-file.el
+  citar-20260706.1221/citar-format.el
+  citar-20260706.1221/citar-latex.el
+  citar-20260706.1221/citar-markdown.el
+  citar-20260706.1221/citar-org.el
+  citar-20260706.1221/citar-pkg.el
+  citar-20260706.1221/citar.el
+Built citar in 3.976s, finished at 2026-07-15T13:31:18+0000

@@ -1,0 +1,14 @@
+
+ • Building package dim-autoload
+From https://github.com/tarsius/dim-autoload
+Updating /mnt/store/melpa/working/dim-autoload/
+Checking out a9024464f0f0573338eaa490cfca998e66bf47f7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dim-autoload/
+  to /tmp/dim-autoload-agR3jO/dim-autoload-20260601.1459/
+    dim-autoload.el -> dim-autoload.el
+Created dim-autoload-20260601.1459.tar containing:
+  dim-autoload-20260601.1459/
+  dim-autoload-20260601.1459/dim-autoload-pkg.el
+  dim-autoload-20260601.1459/dim-autoload.el
+Built dim-autoload in 2.923s, finished at 2026-07-15T13:37:53+0000

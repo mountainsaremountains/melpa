@@ -1,0 +1,14 @@
+
+ • Building package modalka
+From https://github.com/mrkkrp/modalka
+Updating /mnt/store/melpa/working/modalka/
+Checking out 2de5bedc764e318b44dda5e9b70a234432245011
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/modalka/
+  to /tmp/modalka-IXBu8z/modalka-20260321.729/
+    modalka.el -> modalka.el
+Created modalka-20260321.729.tar containing:
+  modalka-20260321.729/
+  modalka-20260321.729/modalka-pkg.el
+  modalka-20260321.729/modalka.el
+Built modalka in 3.515s, finished at 2026-07-15T14:10:29+0000

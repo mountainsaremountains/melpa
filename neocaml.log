@@ -1,0 +1,34 @@
+
+ • Building package neocaml
+From https://github.com/bbatsov/neocaml
+Updating /mnt/store/melpa/working/neocaml/
+Checking out 32acab3624160a7d0bb04c42babaa791729ab8b5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/neocaml/
+  to /tmp/neocaml-nbzqkL/neocaml-20260710.532/
+    neocaml-common.el -> neocaml-common.el
+    neocaml-cram.el -> neocaml-cram.el
+    neocaml-dune-interaction.el -> neocaml-dune-interaction.el
+    neocaml-dune.el -> neocaml-dune.el
+    neocaml-menhir.el -> neocaml-menhir.el
+    neocaml-objinfo.el -> neocaml-objinfo.el
+    neocaml-ocamllex.el -> neocaml-ocamllex.el
+    neocaml-opam.el -> neocaml-opam.el
+    neocaml-repl.el -> neocaml-repl.el
+    neocaml-utop.el -> neocaml-utop.el
+    neocaml.el -> neocaml.el
+Created neocaml-20260710.532.tar containing:
+  neocaml-20260710.532/
+  neocaml-20260710.532/neocaml-common.el
+  neocaml-20260710.532/neocaml-cram.el
+  neocaml-20260710.532/neocaml-dune-interaction.el
+  neocaml-20260710.532/neocaml-dune.el
+  neocaml-20260710.532/neocaml-menhir.el
+  neocaml-20260710.532/neocaml-objinfo.el
+  neocaml-20260710.532/neocaml-ocamllex.el
+  neocaml-20260710.532/neocaml-opam.el
+  neocaml-20260710.532/neocaml-pkg.el
+  neocaml-20260710.532/neocaml-repl.el
+  neocaml-20260710.532/neocaml-utop.el
+  neocaml-20260710.532/neocaml.el
+Built neocaml in 4.085s, finished at 2026-07-15T14:12:14+0000

@@ -1,0 +1,14 @@
+
+ • Building package viking-mode
+From https://codeberg.org/scip/viking-mode
+Updating /mnt/store/melpa/working/viking-mode/
+Checking out de712eb6e7bb3958055868d73fe3dca1d639016b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/viking-mode/
+  to /tmp/viking-mode-FqKSWz/viking-mode-20251218.802/
+    viking-mode.el -> viking-mode.el
+Created viking-mode-20251218.802.tar containing:
+  viking-mode-20251218.802/
+  viking-mode-20251218.802/viking-mode-pkg.el
+  viking-mode-20251218.802/viking-mode.el
+Built viking-mode in 3.966s, finished at 2026-07-15T14:40:59+0000

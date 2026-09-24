@@ -1,0 +1,18 @@
+
+ • Building package opener
+From https://github.com/0robustus1/opener.el
+Updating /mnt/store/melpa/working/opener/
+Checking out c384f67278046fdcd220275fdd212ab85672cbeb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/opener/
+  to /tmp/opener-zVFa56/opener-20161207.1810/
+    opener.el -> opener.el
+    opener.texi -> opener.texi
+Generating opener.info
+Created opener-20161207.1810.tar containing:
+  opener-20161207.1810/
+  opener-20161207.1810/dir
+  opener-20161207.1810/opener-pkg.el
+  opener-20161207.1810/opener.el
+  opener-20161207.1810/opener.info
+Built opener in 11.994s, finished at 2026-07-15T14:16:47+0000
